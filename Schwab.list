@@ -1,5 +1,12 @@
 # Schwab additional
-# DOMAIN,presence.glance.net 
-# Glance 整体直连  单独设置 DOMAIN-SUFFIX,glance.net,DIRECT
+# Updated: 2026-08-19
+
+# Glance - Cobrowse / Screen Share / Presence
+# DOMAIN-SUFFIX,glance.net  单独拿出去了
+
+# LaunchDarkly - Feature Flags
 DOMAIN,clientstream.launchdarkly.com
+DOMAIN,clientsdk.launchdarkly.com
+DOMAIN,app.launchdarkly.com
 DOMAIN,mobile.launchdarkly.com
+DOMAIN,events.launchdarkly.com
