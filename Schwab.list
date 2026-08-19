@@ -1,4 +1,5 @@
 # Schwab additional
-DOMAIN,presence.glance.net
+# DOMAIN,presence.glance.net 
+# Glance 整体直连  单独设置 DOMAIN-SUFFIX,glance.net,DIRECT
 DOMAIN,clientstream.launchdarkly.com
 DOMAIN,mobile.launchdarkly.com
