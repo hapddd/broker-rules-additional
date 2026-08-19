@@ -1,8 +1,7 @@
 # Schwab additional
-# Updated: 2026-08-19
 
-# Glance - Cobrowse / Screen Share / Presence
-# DOMAIN-SUFFIX,glance.net  单独拿出去了
+# Schwab research / market data
+DOMAIN-SUFFIX,schwab.wallst.com
 
 # LaunchDarkly - Feature Flags
 DOMAIN,clientstream.launchdarkly.com
